@@ -1,9 +1,9 @@
 /*
 Theme Name:     Joschwe - Twenty Twelve Child 
-Theme URI:      http://example.com/
+Theme URI:      https://example.com/
 Description:    Child theme for the Twenty Twelve theme, adapted to Joschwe page 
 Author:         Jonas Schweizer
-Author URI:     http://schweizer-jonas.de
+Author URI:     https://schweizer-jonas.de
 Template:       twentytwelve
 Version:        0.1.0
 */
@@ -364,7 +364,7 @@ img.wp-post-image {
 	background-color: 0;
 	font-style: italic;
 
-/*	background: url(http://schweizer-jonas.de/wordpress/wp-content/uploads/teaser-background.png);
+/*	background: url(https://schweizer-jonas.de/wordpress/wp-content/uploads/teaser-background.png);
 	background-position: top left;
 	background-repeat: no-repeat;
 	padding: 195px 0 0 205px;
@@ -381,7 +381,7 @@ img.wp-post-image {
 	padding: 195px 0 0 205px;
 	margin: -195px 0 0 -205px;
    z-index: +1;
-   background-image: url(http://schweizer-jonas.de/wordpress/wp-content/uploads/teaser-background.png);
+   background-image: url(https://schweizer-jonas.de/wordpress/wp-content/uploads/teaser-background.png);
    background-repeat: no-repeat; */
 } 
 

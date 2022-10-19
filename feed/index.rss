@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>Jonas Schweizer &#187; Languages &#187; Deutsch</title>
-	<atom:link href="http://www.schweizer-jonas.de/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.schweizer-jonas.de</link>
+	<atom:link href="https://www.schweizer-jonas.de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.schweizer-jonas.de</link>
 	<description>Webdesign und Consulting</description>
 	<lastBuildDate>Tue, 04 Oct 2022 17:55:52 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -20,16 +20,16 @@
 	<generator>https://wordpress.org/?v=3.8.39</generator>
 	<item>
 		<title>Steuerberatung Lenz</title>
-		<link>http://www.schweizer-jonas.de/steuerberatung-lenz/</link>
-		<comments>http://www.schweizer-jonas.de/steuerberatung-lenz/#comments</comments>
+		<link>https://www.schweizer-jonas.de/steuerberatung-lenz/</link>
+		<comments>https://www.schweizer-jonas.de/steuerberatung-lenz/#comments</comments>
 		<pubDate>Sat, 12 Oct 2013 16:49:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://www.schweizer-jonas.de/?p=400</guid>
+		<guid isPermaLink="false">https://www.schweizer-jonas.de/?p=400</guid>
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
-			<wfw:commentRss>http://www.schweizer-jonas.de/steuerberatung-lenz/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.schweizer-jonas.de/steuerberatung-lenz/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
